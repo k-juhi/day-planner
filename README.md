@@ -5,7 +5,7 @@ The Planner App is a simple web application that allows users to plan their day 
 ## Features
 The Planner App has the following features:
 
-## Display of the current day at the top of the calendar when a user opens the planner.
+Display of the current day at the top of the calendar when a user opens the planner.
 Presentation of time blocks for standard business hours when the user scrolls down.
 Color-coding of each time block based on past, present, and future when the time block is viewed.
 Ability for users to enter an event when they click a time block.
